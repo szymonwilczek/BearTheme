@@ -1,0 +1,16 @@
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\bear-theme-snap.png
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\BearTheme.pkgdef
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\icon.png
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\Properties\BearTheme.pkgdef
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\BearTheme.vsix
+C:\Users\szymo\source\repos\BearTheme\BearTheme\bin\Debug\extension.vsixmanifest
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.csproj.AssemblyReference.cache
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\_EmptyResource.resources
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.csproj.GenerateResource.cache
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.dll
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\BearTheme.pdb
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\extension.vsixmanifest
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\files.json
+C:\Users\szymo\source\repos\BearTheme\BearTheme\obj\Debug\createTemplateManifests.cache
