@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\szymo\\source\\repos\\BearTheme\\BearTheme\\BearTheme.csproj": {}
+    "C:\\Users\\szymo\\Documents\\GitHub\\BearTheme\\BearTheme\\BearTheme.csproj": {}
   },
   "projects": {
-    "C:\\Users\\szymo\\source\\repos\\BearTheme\\BearTheme\\BearTheme.csproj": {
+    "C:\\Users\\szymo\\Documents\\GitHub\\BearTheme\\BearTheme\\BearTheme.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\szymo\\source\\repos\\BearTheme\\BearTheme\\BearTheme.csproj",
+        "projectUniqueName": "C:\\Users\\szymo\\Documents\\GitHub\\BearTheme\\BearTheme\\BearTheme.csproj",
         "projectName": "BearTheme",
-        "projectPath": "C:\\Users\\szymo\\source\\repos\\BearTheme\\BearTheme\\BearTheme.csproj",
+        "projectPath": "C:\\Users\\szymo\\Documents\\GitHub\\BearTheme\\BearTheme\\BearTheme.csproj",
         "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\szymo\\source\\repos\\BearTheme\\BearTheme\\obj\\",
+        "outputPath": "C:\\Users\\szymo\\Documents\\GitHub\\BearTheme\\BearTheme\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\szymo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\szymo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +46,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {
